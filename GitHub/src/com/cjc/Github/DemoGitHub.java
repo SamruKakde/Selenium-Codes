@@ -7,5 +7,9 @@ public class DemoGitHub {
 	
 		System.out.println("This is main GitHub..");
 	}
+	public void m1()
+	{
+	System.out.println("m1 method to pull the data from GitHub");
+	}
 
 }
